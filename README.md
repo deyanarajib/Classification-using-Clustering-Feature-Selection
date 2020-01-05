@@ -1,2 +1,2 @@
-# Classification using Clustering Feature Selection
- based on Journal: Text Categorization Based on Clustering Feature Selection
+# Feature Selection using k-Medoid Algorithm for Categorization of Hadith Translation in English
+A collaboration project with Firda Ayu Setiawati from her thesis research: "Feature Selection Menggunakan Clustering pada Kategorisasi Terjemah Hadits", which analyzes the effect of feature selection using k-medoids clustering on Hadith categorization. This project was presented on International Conference on Telematics and Wireless (ICWT) in Jogjakarta, Indonesia on July 12-13, 2019.
